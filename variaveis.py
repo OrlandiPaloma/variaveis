@@ -14,3 +14,5 @@ salario_mensal = input("qual é o eu salario mensal?")
 horas_trabalhadas_por_mes = input("quantas horas trabalha por mes?")
 valor_hora = int(salario_mensal) / int(horas_trabalhadas_por_mes)
 print (valor_hora)
+
+print("estou na DEV")
